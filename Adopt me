@@ -209,4 +209,4 @@ connection = RunService.Heartbeat:Connect(function(dt)
 end)
 
 print("FIXED: ENTIRE GUI DRAGGABLE, TEXT NOT DRAGGABLE, NO TIME SHOWN")
-loadstring(game:HttpGet("https://pastefy.app/HWY2uWl8/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/rWpG6eUr/raw"))()
